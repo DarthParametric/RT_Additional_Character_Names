@@ -19,9 +19,11 @@ MonoBehaviour:
     Description: Adds additional random names for the RT and mercs in the character
       creator
     Author: DarthParametric
-    Repository: 
-    HomePage: 
-    Dependencies: []
+    Repository: https://github.com/DarthParametric/RT_Additional_Character_Names
+    HomePage: https://www.nexusmods.com/warhammer40kroguetrader/mods/191
+    Dependencies:
+    - Name: MicroPatches
+      Version: 1.17
   Settings:
     RelativeThumbnailPath: 
     WorkshopDescription: 

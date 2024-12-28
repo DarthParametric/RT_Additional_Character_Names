@@ -403,6 +403,7 @@ FodyWeavers.xsd
 
 _Assets/
 _Reference/
+_Nexus/
 
 # Exclude binary assets
 *.tga
