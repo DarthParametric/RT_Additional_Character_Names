@@ -40,7 +40,7 @@ It should be fine to install the mod in an existing game at any point, although 
 ## Known Issues
 This mod replaces the vanilla localisation strings for player/merc character names. As such, it is not compatible with any other mod that also replaces the same strings. GUIDs: `62681797-7835-4b5c-b8dd-63918881b28a` / `d109f177-8a63-40eb-8a51-dcd29d3eb94e` / `29e96169-b891-43ef-8b01-bf821656e4d7` / `566bb5f9-4e93-448a-b654-b9c2f2dc3efb`.
 
-Currently the mod only replaces the names for the English localisation. If anyone wants to contribute localised versions in another language, let me know.
+Currently the mod only replaces the names for the English localisation. Other languages will continue to use the vanilla set of names. If anyone wants to contribute localised versions in another language, let me know.
 
 ## Acknowledgements
 Many thanks to the modders on the Owlcat Dicord, but particularly microsoftenator2022 and Kurufinve.
